@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "app.netlify.wonderful_bhaskara_c57115.twa",
+                   "sha256_cert_fingerprints": ["C5:4E:A4:43:A4:8C:53:6C:28:F9:23:9C:9B:F0:57:E2:6D:FE:17:58:3A:63:4B:0B:3B:60:4E:B8:1D:5B:B5:8A"] }
+    }]
