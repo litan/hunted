@@ -3,9 +3,9 @@
     "lang": "en",
     "name": "Hunted",
     "short_name": "Hunted",
-    "scope": "/run.html",
-    "display": "standalone",
-    "start_url": "https://wonderful-bhaskara-c57115.netlify.app/run.html",
+    "scope": "/",
+    "display": "",
+    "start_url": "https://litan.github.io/hunted/",
     "background_color": "transparent",
     "theme_color": "transparent",
     "description": "",
@@ -16,5 +16,5 @@
         "src": "hunted.png",
         "sizes": "512x512"
       }],
-      "url": "https://wonderful-bhaskara-c57115.netlify.app/run.html"
+      "url": "https://litan.github.io/hunted/"
 }
